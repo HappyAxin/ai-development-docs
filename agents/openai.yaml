@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI Development Docs"
+  short_description: "Create traceable AI-assisted development documentation"
+  default_prompt: "Use $ai-development-docs to plan and maintain documentation for this development task."
+
